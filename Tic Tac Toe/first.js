@@ -30,6 +30,7 @@ rst.addEventListener("click", () => reset());
 const disable = () => {
     for (box of boxes) {
         box.disabled = true;
+        
     }
 }
 
