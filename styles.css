@@ -3,7 +3,7 @@ input:focus{
   background-color: #ffeb3b51!important;
 }
 
-.highlighted {
+.highlighted .form-control{
   border: 2px solid #007bff;
   background-color: #4caf4f51;
 }
