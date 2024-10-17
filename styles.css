@@ -1,0 +1,15 @@
+input:focus{
+  border: 2px solid #007bff !important;
+  background-color: #ffeb3b51!important;
+}
+
+.highlighted {
+  border: 2px solid #007bff;
+  background-color: #4caf4f51;
+}
+
+.instruction-title {
+  font-weight: bold;
+  font-size: 18px;
+  color: #0056b3;
+}
