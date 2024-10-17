@@ -1,0 +1,14 @@
+input:focus{
+  border: 2px solid #007bff !important;
+  background-color: #00ABE7 !important;
+}
+
+.highlighted .form-control{
+  border: 2px solid #007bff;
+  background-color: #4caf4f51;
+}
+
+.instruction-title {
+  font-weight: bold;
+  font-size: 18px;
+  color: #0056b3;
