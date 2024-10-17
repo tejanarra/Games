@@ -1,6 +1,6 @@
 input:focus{
   border: 2px solid #007bff !important;
-  background-color: #ff523b51!important;
+  background-color: pink!important;
 }
 
 .highlighted .form-control{
